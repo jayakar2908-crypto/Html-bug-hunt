@@ -63,3 +63,4 @@ The file `index.html` has **10 deliberate mistakes**. Each one is filed as a Git
 
 - [MDN: Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 - [MDN: Paragraph](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+# project-practice
